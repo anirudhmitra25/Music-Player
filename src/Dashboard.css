@@ -1,0 +1,33 @@
+.search-results{
+   position: absolute;
+   z-index: 9;
+   top:60px;
+   left: 0px;
+   width: 50%;
+   height: 300px;
+   overflow: auto;
+   margin-left: 10px;
+   background-color: #2E3033;
+}
+::-webkit-scrollbar {display:none;}
+.new-releases{
+
+}
+.home-title{
+   color: antiquewhite;
+   margin-left: 25px;
+   font-family:"Times New Roman', Times, serif";
+   font-weight: 400;
+   font-size: larger;
+}
+
+.first-div{
+   align-items: center;
+   
+}
+
+h1{
+   color: white;
+   opacity: 0.8;
+   margin-left: 15px;
+}
